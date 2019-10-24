@@ -1,6 +1,6 @@
 {
-	"name": "s2software/fatturapa",
-	"description": "Libreria PHP per la generazione della fattura elettronica italiana in XML (formato FatturaPA)",
+	"name": "s2software/comptest",
+	"description": "Composer Test",
 	"license": "MIT",
 	"authors": [{
 		"name": "Stefano Storti",
