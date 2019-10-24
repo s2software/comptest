@@ -9,5 +9,10 @@
 	}],
 	"require": {
 		"composer/installers": "~1.0"
+	},
+	"extra": {
+		"installer-paths": {
+			"application/third_party/{$name}": ["s2software/comptest"]
+		}
 	}
 }
