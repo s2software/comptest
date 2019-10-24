@@ -10,10 +10,5 @@
 	"require": {
 		"composer/installers": "~1.0"
 	},
-	"type": "codeigniter-third-party",
-	"extra": {
-        	"installer-paths": {
-			"application/ttt/{$name}/": ["s2software/comptest"]
-		}
-	}
+	"type": "codeigniter-third-party"
 }
