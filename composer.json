@@ -6,5 +6,8 @@
 		"name": "Stefano Storti",
 		"email": "s.storti@s2software.it",
 		"homepage": "https://www.s2software.it/"
-	}]
+	}],
+	"require": {
+		"composer/installers": "~1.0"
+	}
 }
